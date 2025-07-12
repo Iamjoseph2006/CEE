@@ -1,0 +1,31 @@
+Objetivo de la clase:
+Diseñar y construir formularios HTML funcionales y visualmente coherentes para registrar estudiantes, docentes e iniciar sesión en el sistema web de la Corporación Educativa Ecuador, aplicando etiquetas semánticas y estilos CSS para mejorar la experiencia del usuario y la recolección de datos.
+
+FORMULARIOS EN HTML
+Un formulario HTML es un área de una página web que permite a los usuarios ingresar datos, que luego pueden ser enviados a un servidor para su procesamiento. Estos formularios se construyen con elementos HTML como <form>, <input>, <select>, <textarea>, y etiquetas de texto que describen los campos. 
+En detalle:
+
+Función:
+Los formularios HTML son la base para la interacción entre el usuario y el sitio web, permitiendo la recopilación de datos como información de contacto, preferencias, o respuestas a encuestas. 
+
+Estructura:
+Un formulario se define con la etiqueta <form> y dentro de ella se colocan los diferentes controles (campos de entrada, botones, etc.) y etiquetas que describen los campos.
+
+Controles:
+Los elementos de formulario más comunes son:
+
+<input>: Utilizado para crear campos de texto, campos de contraseña, botones de radio, casillas de verificación, botones de envío, etc. 
+<select>: Para crear listas desplegables. 
+<textarea>: Para crear áreas de texto de varias líneas. 
+<label>: Para asociar etiquetas descriptivas con los controles. 
+
+Procesamiento:
+Una vez que el usuario completa el formulario y lo envía, los datos se envían a un script o controlador (usualmente en el servidor) que se encarga de procesarlos, almacenarlos o utilizarlos para otras acciones. 
+
+Atributos importantes:
+
+action: Especifica la URL donde se enviarán los datos del formulario. 
+method: Define el método de envío de los datos (GET o POST). 
+name: Es el nombre del control, que se utiliza para identificar el valor enviado al servidor. 
+
+En resumen, los formularios HTML son una herramienta fundamental para la interactividad y el intercambio de información en la web, permitiendo a los usuarios proporcionar datos y a los sitios web recibirlos y procesarlos
